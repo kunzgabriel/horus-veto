@@ -135,7 +135,7 @@ export default {
         { name: 'de_dust2', available: true },
         { name: 'de_mirage', available: true },
         { name: 'de_inferno', available: true },
-        { name: 'de_overpass', available: true },
+        { name: 'de_anubis', available: true },
         { name: 'de_vertigo', available: true },
         { name: 'de_nuke', available: true },
         { name: 'de_ancient', available: true }
