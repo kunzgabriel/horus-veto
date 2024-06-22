@@ -2,7 +2,7 @@
   <v-container style="width: 500px;">
     <v-row no-gutters>
       <v-col>
-        <h1>Veto de Mapas 4º Torneio Horus</h1>
+        <h1>Veto de Mapas - PGA League Season 1</h1>
       </v-col>
     </v-row>
     <v-row no-gutters>
